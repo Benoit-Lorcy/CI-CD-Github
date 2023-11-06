@@ -1,1 +1,4 @@
 name: my-ci
+
+# On déclenche le worflow sur tout push
+on: [push]
